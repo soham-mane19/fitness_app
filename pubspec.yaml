@@ -1,0 +1,52 @@
+name: fitness_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  font_awesome_flutter: ^10.7.0
+  google_fonts: ^6.2.1
+  percent_indicator: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets\spalshscreen.png
+  - assets\image1.png
+  - assets\handtraining.jpg
+  - assets\pushup.png
+  - assets\kneepushup.png
+  - assets\situp.png
+  - assets\explore.png
+  - assets\plank.png
+  - assets\loosefat.png
+  - assets\build.png
+  - assets\bellyfat.png
+  - assets\fireicon.png
+  - assets\firesvg.svg
+  - assets\firesvg2.svg
+  - assets\sprintsvg.svg
+  - assets\squatsvg.svg
+  - assets\leg.png
+  - assets\backward.png
+  - assets\finalmap.png
+  - assets\heart.png
+  - assets\heartrate.png
+  - assets\shoes.png
+  - assets\sleep.png
+  - assets\water.png
+  - assets\workoutmain.png
+  - assets\jumping.png
+  - assets\back.png
+  - assets\squates.png
